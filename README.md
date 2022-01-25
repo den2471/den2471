@@ -5,5 +5,6 @@
 
 ## My task list:
  - [x] Create my own religion
- - [x] Find adherents
+ - [x] Find followers
+ - [x] Create powerful weapon
  - [ ] Kill all humans :tada:
